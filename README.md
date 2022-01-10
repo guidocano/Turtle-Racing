@@ -2,8 +2,8 @@
 
 Algunas pruebas con Python y módulo Turtle.
 
-![ScreenShot](/screenshots/turtle1.png)
-<img src="https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle1.png" width="100" height="100">
+<img src="https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle1.png" width="500" >
+<img src="https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle2.png" width="500" >
 
 
 -------------------------------------
