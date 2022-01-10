@@ -8,4 +8,4 @@ Algunas pruebas con Python y módulo Turtle.
 
 Tutorial por https://www.techwithtim.net/.
 
-Menu en loop y modo granja agregados por mi.
+Menu de opciones y modo granja agregados por mi.
