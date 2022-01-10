@@ -8,4 +8,4 @@ Algunas pruebas con Python y módulo Turtle.
 
 Tutorial por https://www.techwithtim.net/.
 
-Menu de opciones y "Farm Mode" aagregados por mi.
+Menu de opciones y "Farm Mode" agregados por mi.
