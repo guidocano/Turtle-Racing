@@ -2,7 +2,7 @@
 
 Algunas pruebas con Python y módulo Turtle.
 
-https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle1.png
+https://raw.githubusercontent.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle1.png
 
 -------------------------------------
 
