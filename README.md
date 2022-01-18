@@ -1,6 +1,6 @@
 # Turtle-Racing
 
-Pruebas con Python y módulo Turtle.
+Some tests with Python and Turtle Module.
 
 <img src="https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle1.png" width="400" > <img src="https://github.com/guidocano/Turtle-Racing/blob/main/screenshots/turtle3.png" width="400" >
 
@@ -8,6 +8,6 @@ Pruebas con Python y módulo Turtle.
 
 -------------------------------------
 
-Tutorial por https://www.techwithtim.net/.
+Tutorial by https://www.techwithtim.net/.
 
-Menu de opciones y "Farm Mode" agregados por mi.
+Option menu and "Farm Mode" by me.
